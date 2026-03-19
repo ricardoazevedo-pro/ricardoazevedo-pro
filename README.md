@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██████╗ ██╗ ██████╗ █████╗ ██████╗ ██████╗  ██████╗
-██╔══██╗██║██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗
-██████╔╝██║██║     ███████║██████╔╝██║  ██║██║   ██║
-██╔══██╗██║██║     ██╔══██║██╔══██╗██║  ██║██║   ██║
-██║  ██║██║╚██████╗██║  ██║██║  ██║██████╔╝╚██████╔╝
-╚═╝  ╚═╝╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝
-```
+
 
 ### `Ricardo Azevedo` · Backend Engineer
 **Systems · Fintech · Cloud Infrastructure**
@@ -122,6 +115,4 @@ $ curl -X POST https://ricardoazevedo.pro/contact \
 
 ---
 
-<div align="center">
-<sub>Built with intent · Shipped with precision · Oriented toward fintech</sub>
-</div>
+
