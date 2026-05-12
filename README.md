@@ -3,7 +3,7 @@
 
 
 ### `Ricardo Azevedo` · Backend Engineer
-**Systems · Fintech · Cloud Infrastructure**
+**Systems · Cloud Infrastructure**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-azevedo-990b8a227)
 [![Website](https://img.shields.io/badge/ricardoazevedo.pro-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://ricardoazevedo.pro/)
@@ -13,80 +13,70 @@
 
 ---
 
-## `$ whoami`
+## About Me
 
-Backend engineer with a strong foundation in **systems engineering** and **cloud infrastructure**, now laser-focused on building reliable, high-throughput backend systems for **fintech** environments.
+Backend engineer with a strong foundation in **systems engineering** and **cloud infrastructure**, now focused on building reliable, high-throughput systems.
 
 I work daily with **Azure / M365 ecosystems**, distributed systems, and identity infrastructure — giving me a practical perspective on what production systems actually demand. I build with precision, ship with intent, and care deeply about correctness and security.
 
-> Currently sharpening my backend craft with **Kotlin + Spring Boot** and **Python** — targeting payment systems, financial APIs, and event-driven architectures.
+> Currently sharpening my craft with **C/C++, Rust** and **Python** — targeting high-performance architectures and distributed systems.
 
 ---
 
-## `$ cat tech_stack.json`
+## Technical Stack
 
-```json
-{
-  "primary_languages": ["Kotlin", "Python", "C#"],
-  "backend_frameworks":  ["Spring Boot", "FastAPI", ".NET"],
-  "cloud_platforms":     ["Azure", "Azure AD", "Microsoft 365"],
-  "infra_tooling":       ["Active Directory", "PowerShell", "Bash"],
-  "currently_learning":  ["Kafka", "Event-Driven Architecture", "Fintech APIs"],
-  "interested_in":       ["Payment Systems", "Open Banking", "Security Engineering"]
-}
-```
+- **Primary Languages:** C/C++, Rust, Python, C#
+- **Backend Frameworks:** FastAPI, .NET
+- **Cloud Platforms:** Azure, Azure AD, Microsoft 365
+- **Infra Tooling:** PowerShell, Bash, Docker, Git
+- **Currently Learning:** Kafka, Low-level optimization, Distributed Systems
+- **Interested In:** Systems Programming, High-performance computing, Security Engineering
 
 ---
 
-## `$ ls -la ./skills`
+## Skills
 
 | Domain | Technologies |
 |---|---|
-| **Backend** | Kotlin · Python · C# · REST APIs · Spring Boot · FastAPI · .NET |
+| **Backend** | C/C++ · Rust · Python · C# · REST APIs · FastAPI · .NET |
 | **Cloud & Infra** | Azure · Azure AD · M365 · Active Directory · IAM |
 | **Security** | Offensive Security fundamentals · Bug Bounty · Vulnerability Research |
 | **Tooling** | Git · Docker · PowerShell · Bash · Linux |
-| **Soft skills** | Systems thinking · Incident response · SLA ownership |
+| **Soft Skills** | Systems thinking · Incident response · SLA ownership |
 
 ---
 
-## `$ git log --oneline ./projects`
+## Projects
 
-> 🔨 **Projects being built in public — watch this space.**
+> 🔨 **Building in public — new systems-focused projects coming soon.**
 
-```
-[ UPCOMING ] kotlin-fintech-api
-             ├── Spring Boot REST API · financial domain
-             ├── Clean Architecture · domain-driven design
-             └── Status: 🚧 In active development
-```
+- **Systems Research:** Exploring low-level optimization techniques.
+- **Distributed Systems:** Designing scalable and resilient backend architectures.
 
 *More projects shipping soon. Follow to stay updated.*
 
 ---
 
-## `$ cat background.md`
+## Background
 
 I come from **MSP / Systems Engineering** — where you learn that production systems don't forgive carelessness. Managing complex Azure AD environments, M365 tenants, and hybrid infrastructure taught me to think about **reliability, security, and observability** before writing a single line of code.
 
 That operational background is exactly why I'm valuable as a backend engineer: I understand what happens after the code ships.
 
-**Currently transitioning** into a full backend role, with a deliberate focus on the **fintech sector** — payment systems, regulatory-aware APIs, and event-driven financial data pipelines.
+**Currently transitioning** into a full backend role, with a deliberate focus on **systems programming** — building high-performance, reliable, and observable backend infrastructure.
 
 ---
 
-## `$ netstat -active`
+## Current Focus
 
-```
-🔐  Bug Bounty        → Active | Infrastructure & Web Application scope
-🏗️  Backend Projects  → Active | Kotlin / Python / C#
-📡  Cloud Infra       → Active | Azure / M365 / AD
-📚  Learning          → Kafka · Spring Boot · Open Banking APIs
-```
+- 🔐 **Bug Bounty** → Active | Infrastructure & Web Application scope
+- 🏗️ **Backend Projects** → Active | C/C++ / Rust / Python
+- 📡 **Cloud Infra** → Active | Azure / M365 / AD
+- 📚 **Learning** → Systems Programming · Kafka · High-performance computing
 
 ---
 
-## `$ tail -f stats.log`
+## Statistics
 
 <div align="center">
 
@@ -100,19 +90,11 @@ That operational background is exactly why I'm valuable as a backend engineer: I
 
 ---
 
-## `$ ping ricardo`
+## Contact
 
-```bash
-$ curl -X POST https://ricardoazevedo.pro/contact \
-  -H "Content-Type: application/json" \
-  -d '{"subject": "Backend opportunity", "open_to": "fintech roles"}'
-
-→ 200 OK — Always open to backend & fintech opportunities.
-```
+I'm always open to discussing backend opportunities and systems engineering.
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ricardo-azevedo-990b8a227)
 [![Website](https://img.shields.io/badge/Visit-ricardoazevedo.pro-111827?style=flat-square&logo=firefox)](https://ricardoazevedo.pro/)
 
 ---
-
-
