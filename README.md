@@ -1,9 +1,7 @@
 <div align="center">
 
-
-
-### `Ricardo Azevedo` · Backend Engineer
-**Systems · Cloud Infrastructure**
+### `Ricardo Azevedo` · Security Researcher
+**Offensive Security · Red Teaming · Systems Security**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-azevedo-990b8a227)
 [![Website](https://img.shields.io/badge/ricardoazevedo.pro-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://ricardoazevedo.pro/)
@@ -15,22 +13,21 @@
 
 ## About Me
 
-Backend engineer with a strong foundation in **systems engineering** and **cloud infrastructure**, now focused on building reliable, high-throughput systems.
+I am a **Security Researcher** transitioning from a strong background in **Systems Engineering** and **Backend Development** into **Offensive Security**.
 
-I work daily with **Azure / M365 ecosystems**, distributed systems, and identity infrastructure — giving me a practical perspective on what production systems actually demand. I build with precision, ship with intent, and care deeply about correctness and security.
+My journey through building and managing complex cloud infrastructures has given me a deep understanding of how systems are constructed—and more importantly, how they can be compromised. I leverage my proficiency in **C/C++, Rust, and Python** to approach security from a low-level perspective, focusing on exploit development, vulnerability research, and red teaming.
 
-> Currently sharpening my craft with **C/C++, Rust** and **Python** — targeting high-performance architectures and distributed systems.
+> 🛡️ *Bridging the gap between robust development and offensive exploration.*
 
 ---
 
 ## Technical Stack
 
-- **Primary Languages:** C/C++, Rust, Python, C#
-- **Backend Frameworks:** FastAPI, .NET
-- **Cloud Platforms:** Azure, Azure AD, Microsoft 365
-- **Infra Tooling:** PowerShell, Bash, Docker, Git
-- **Currently Learning:** Kafka, Low-level optimization, Distributed Systems
-- **Interested In:** Systems Programming, High-performance computing, Security Engineering
+- **Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark, Ghidra, GDB
+- **Primary Languages:** C/C++, Rust, Python, Bash, PowerShell
+- **Cloud Security:** Azure Security, Azure AD/Entra ID, M365 Security
+- **Infra & Tooling:** Docker, Git, Linux (Kali, Parrot), Windows Internals
+- **Interested In:** Exploit Development, Kernel Security, Reverse Engineering
 
 ---
 
@@ -38,41 +35,39 @@ I work daily with **Azure / M365 ecosystems**, distributed systems, and identity
 
 | Domain | Technologies |
 |---|---|
-| **Backend** | C/C++ · Rust · Python · C# · REST APIs · FastAPI · .NET |
-| **Cloud & Infra** | Azure · Azure AD · M365 · Active Directory · IAM |
-| **Security** | Offensive Security fundamentals · Bug Bounty · Vulnerability Research |
-| **Tooling** | Git · Docker · PowerShell · Bash · Linux |
-| **Soft Skills** | Systems thinking · Incident response · SLA ownership |
+| **Offensive Security** | Pentesting · Red Teaming · Vulnerability Research · Web App Security |
+| **Cloud & Infra** | Azure · Azure AD · M365 · IAM Security · Hybrid Infrastructure |
+| **Backend & Systems** | C/C++ · Rust · Python · Systems Programming · High-performance Architectures |
+| **Tooling** | Git · Docker · PowerShell · Bash · Linux Internals |
+| **Soft Skills** | Critical Thinking · Incident Response · Technical Writing |
 
 ---
 
 ## Projects
 
-> 🔨 **Building in public — new systems-focused projects coming soon.**
+> ⚔️ **Currently developing security tooling and researching exploit techniques.**
 
-- **Systems Research:** Exploring low-level optimization techniques.
-- **Distributed Systems:** Designing scalable and resilient backend architectures.
-
-*More projects shipping soon. Follow to stay updated.*
+- **Vulnerability Research:** Analyzing low-level memory corruption and logic flaws.
+- **Security Tooling:** Building custom scanners and automation scripts in Rust/Python.
 
 ---
 
 ## Background
 
-I come from **MSP / Systems Engineering** — where you learn that production systems don't forgive carelessness. Managing complex Azure AD environments, M365 tenants, and hybrid infrastructure taught me to think about **reliability, security, and observability** before writing a single line of code.
+I started in **MSP / Systems Engineering**, where I managed complex Azure AD environments and M365 tenants. This experience taught me the critical importance of identity security and infrastructure reliability.
 
-That operational background is exactly why I'm valuable as a backend engineer: I understand what happens after the code ships.
+I then pivoted to **Backend Engineering**, focusing on building high-performance, distributed systems. This phase sharpened my coding skills and gave me the "builder's mindset"—understanding the intricate details of application logic and data flow.
 
-**Currently transitioning** into a full backend role, with a deliberate focus on **systems programming** — building high-performance, reliable, and observable backend infrastructure.
+**Currently reshaping** my focus entirely towards **Cybersecurity**, specifically **Red Teaming and Pentesting**, combining my operational and development expertise to identify and mitigate sophisticated threats.
 
 ---
 
 ## Current Focus
 
 - 🔐 **Bug Bounty** → Active | Infrastructure & Web Application scope
-- 🏗️ **Backend Projects** → Active | C/C++ / Rust / Python
-- 📡 **Cloud Infra** → Active | Azure / M365 / AD
-- 📚 **Learning** → Systems Programming · Kafka · High-performance computing
+- 🛡️ **Security Labs** → HTB, TryHackMe | Focus on Active Directory and Linux exploitation
+- 🏗️ **Security Tooling** → Developing custom offensive tools in Rust and C++
+- 📚 **Learning** → Advanced Exploit Development · Malware Analysis · Reverse Engineering
 
 ---
 
@@ -92,7 +87,7 @@ That operational background is exactly why I'm valuable as a backend engineer: I
 
 ## Contact
 
-I'm always open to discussing backend opportunities and systems engineering.
+I'm always open to discussing security research, offensive security, and low-level systems.
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ricardo-azevedo-990b8a227)
 [![Website](https://img.shields.io/badge/Visit-ricardoazevedo.pro-111827?style=flat-square&logo=firefox)](https://ricardoazevedo.pro/)
