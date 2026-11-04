@@ -1,7 +1,7 @@
 <div align="center">
 
 ### `Ricardo Azevedo` · Systems & Identity Engineering
-**Microsoft 365 · Entra ID · Automation · Game Development**
+**Microsoft 365 · Entra ID · Tenant Migrations · Automation · Game Development**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-azevedo-990b8a227)
 [![Website](https://img.shields.io/badge/ricardoazevedo.pro-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://ricardoazevedo.pro/)
@@ -13,7 +13,7 @@
 
 ## What I Do
 
-I keep Microsoft cloud environments clean, consistent and under control. That means running a production tenant, retiring the ones that come with acquisitions, and replacing manual work with scripts.
+I keep Microsoft cloud environments clean, consistent and under control. That means running a production tenant, migrating organizations between tenants without interrupting the business, and replacing manual work with scripts.
 
 My background is in multimedia and audiovisual, which is why I also build games, and why I think about systems as products people have to use.
 
@@ -25,7 +25,7 @@ My background is in multimedia and audiovisual, which is why I also build games,
 
 | Project | What it solved |
 |---|---|
-| **Live tenant migration (standalone separation)** | Led the move of a company to its own Microsoft 365 tenant after leaving its corporate group: built and configured the new tenant and migrated everything live in 6 months, with no service disruption. The source tenant had limited permissions and company-specific configurations. |
+| **Live tenant migration (standalone separation)** | Drove the move of a company to its own Microsoft 365 tenant after it left its corporate group: built and configured the new tenant and migrated 1,500+ users, 20,000+ mailboxes and 15 TB of SharePoint data live in 6 months, with no service disruption. The source tenant had limited permissions and company-specific configurations. |
 | **Entra ID → Exchange Online sync** | PowerShell script mapping directory attributes to dynamic distribution groups, so membership follows the data instead of manual upkeep |
 | **Estate-wide inventory report** | Python tool merging Excel files and databases into a single source of truth on the state of the full hardware estate |
 | **Tenant decommissioning** | Controlled shutdown of tenants inherited from acquired companies |
