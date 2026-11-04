@@ -1,7 +1,7 @@
 <div align="center">
 
-### `Ricardo Azevedo` · Cybersecurity
-**Offensive Security · Red Teaming · Systems Security**
+### `Ricardo Azevedo` · Systems & Identity Engineering
+**Microsoft 365 · Entra ID · Automation · Game Development**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-azevedo-990b8a227)
 [![Website](https://img.shields.io/badge/ricardoazevedo.pro-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://ricardoazevedo.pro/)
@@ -11,73 +11,49 @@
 
 ---
 
-## About Me
+## What I Do
 
-I am a **Cybersecurity enthusiast** transitioning from a strong background in **Systems Engineering** and **Backend Development** into **Offensive Security**.
+I keep Microsoft cloud environments clean, consistent and under control. That means running a production tenant, retiring the ones that come with acquisitions, and replacing manual work with scripts.
 
-My journey through building and managing complex cloud infrastructures has given me a deep understanding of how systems are constructed—and more importantly, how they can be compromised. I leverage my proficiency in **C/C++, Rust, and Python** to approach security from a low-level perspective, focusing on exploit development, vulnerability research, and red teaming.
+My background is in multimedia and audiovisual, which is why I also build games, and why I think about systems as products people have to use.
 
-> 🛡️ *Bridging the gap between robust development and offensive exploration.*
+---
+
+## Selected Work
+
+
+
+| Project | What it solved |
+|---|---|
+| **Live tenant migration (standalone separation)** | Led the move of a company to its own Microsoft 365 tenant after leaving its corporate group: built and configured the new tenant and migrated everything live in 6 months, with no service disruption. The source tenant had limited permissions and company-specific configurations. |
+| **Entra ID → Exchange Online sync** | PowerShell script mapping directory attributes to dynamic distribution groups, so membership follows the data instead of manual upkeep |
+| **Estate-wide inventory report** | Python tool merging Excel files and databases into a single source of truth on the state of the full hardware estate |
+| **Tenant decommissioning** | Controlled shutdown of tenants inherited from acquired companies |
+| **Game (Unreal Engine, in design)** | My first comercial game, currently in the GDD phase |
+| **Homelab** | Self-hosted services on Proxmox for hands-on infrastructure work |
+
 
 ---
 
 ## Technical Stack
 
-- **Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark, Ghidra, GDB
-- **Primary Languages:** C/C++, Rust, Python, Bash, PowerShell
-- **Cloud Security:** Azure Security, Azure AD/Entra ID, M365 Security
-- **Infra & Tooling:** Docker, Git, Linux (Kali, Parrot), Windows Internals
-- **Interested In:** Exploit Development, Kernel Security, Reverse Engineering
+- **Cloud & Identity:** Azure, Entra ID, Microsoft 365, Exchange Online
+- **Languages:** Python, PowerShell · Bash (working knowledge) · C/C++ (deepening)
+- **Infra & Tooling:** Linux, Proxmox, Docker, Git
 
 ---
 
-## Skills
+## Currently Building
 
-| Domain | Technologies |
-|---|---|
-| **Offensive Security** | Pentesting · Red Teaming · Vulnerability Research · Web App Security · Mobile Security |
-| **Cloud & Infra** | Azure · Azure AD · M365 · IAM Security · Hybrid Infrastructure |
-| **Backend & Systems** | C/C++ · Rust · Python · Systems Programming · High-performance Architectures |
-| **Tooling** | Git · Docker · PowerShell · Bash · Linux Internals |
-| **Soft Skills** | Critical Thinking · Incident Response · Technical Writing |
-
----
-
-
-## Background
-
-I started in **MSP / Systems Engineering**, where I managed complex Azure AD environments and M365 tenants. This experience taught me the critical importance of identity security and infrastructure reliability.
-
-**Currently reshaping** my focus entirely towards **Cybersecurity**, specifically **Red Teaming and Pentesting**, combining my operational and development expertise to identify and mitigate sophisticated threats.
-
----
-
-## Current Focus
-
-- 🔐 **Bug Bounty** → Active | Infrastructure & mobile scope
-- 🛡️ **Security Labs** → HTB, TryHackMe | Focus on Active Directory and Linux exploitation
-- 🏗️ **Security Tooling** → Developing custom offensive tools in Rust and C++
-- 📚 **Learning** → Advanced Exploit Development · Malware Analysis · Reverse Engineering
-
----
-
-## Statistics
-
-<div align="center">
-
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ricardoazevedo-pro&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
+- 🎮 My first comercial game in Unreal Engine (GDD phase)
+- 🧠 C/C++ fundamentals
+- 🖥️ Homelab infrastructure
 
 ---
 
 ## Contact
 
-I'm always open to discussing security research, offensive security, and low-level systems.
+Open to talking identity, automation and systems engineering.
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ricardo-azevedo-990b8a227)
 [![Website](https://img.shields.io/badge/Visit-ricardoazevedo.pro-111827?style=flat-square&logo=firefox)](https://ricardoazevedo.pro/)
-
----
